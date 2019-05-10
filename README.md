@@ -1,4 +1,3 @@
-# demo-ywglmcxj
 Demo for javafx-maven-plugin issue [#18](https://github.com/openjfx/javafx-maven-plugin/issues/18).
 
 From project root, run:
